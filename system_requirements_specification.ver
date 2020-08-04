@@ -1,0 +1,22 @@
+\begin {longtable}{@{}|l|l|>{\hsize =\vhAuthorColWidth }X|>{\hsize =\vhChangeColWidth }X|@{}}\hline 
+\textbf {\vhversionname }
+ & \textbf {\vhdatename }
+ & \textbf {\vhauthorname }
+ & \textbf {\vhchangename }\\\hline 
+0.1
+ & 07.30.2020
+ & \listset {BP}
+ & document creation\\\hline 
+0.2
+ & 07.09.2020
+ & \listset {BP}
+ & section 1 added\\\hline 
+0.3
+ & 08.03.2020
+ & \listset {LC}
+ & Section 2,3,6,7,8,9 (missing)\\\hline 
+0.4
+ & 08.03.2020
+ & \listset {LC}
+ & sections 4 and 5 added\\\hline 
+\end {longtable}
