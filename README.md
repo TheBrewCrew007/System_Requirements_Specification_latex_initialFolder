@@ -1,1 +1,3 @@
-# System_Requirements_Specification_latex_initialFolder
+# System-Requirements-Specification
+
+This is the system requirements specification of the beverage management app.
